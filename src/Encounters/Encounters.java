@@ -1,7 +1,7 @@
 package Encounters;
 
 import java.util.Random;
-import javax.swing.JOptionPane; // <--- IMPORTANT
+import javax.swing.JOptionPane;
 
 import Entities.Monster;
 import Entities.Player;
@@ -224,4 +224,5 @@ public class Encounters {
             }
         }
     }
+
 }
